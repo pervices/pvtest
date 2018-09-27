@@ -1,4 +1,4 @@
-# Stacked RX/TX Command GNURadio Examples
+## Stacked RX/TX Commands GNURadio Examples
 
     python2 test_stacked_rx_commands.py
         -> Stacks 5 RX commands in the FPGA buffer at 1 second intervals,
